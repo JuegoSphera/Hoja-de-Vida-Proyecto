@@ -1,0 +1,59 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-size:50px;
+    text-align:center;
+    color:#2577ff
+}
+.Informacion{
+    width: 1350px;
+    height: 40%;
+    background-color: beige;
+}
+
+.Informacion h1{
+    font-size: 50px;
+    text-align: center;
+    color: #2577ff;
+    margin: auto;
+
+
+
+}
+.Informacion img{
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.Informacion h2{
+    text-align: center;
+    color: #2577ff;
+    background: #fff;
+    width: 200px;
+    margin:auto;
+}
+.Informacion ul{
+    width: 100%;
+    margin: 0px;
+}
+
+.Informacion ul li{
+    display: inline-block;
+    width: 150px;
+    background: #2577ff;
+    padding: 10px;
+    border: 2px solid black;
+
+}
+
+.Skills{
+    background: #2577ff;
+    height: 50vw;
+}
+.Skills h3{
+    margin: 0px;
+}
